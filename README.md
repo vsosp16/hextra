@@ -43,6 +43,37 @@ Refer to the [documentation](https://imfing.github.io/hextra/docs) for more info
 Contributions are welcome.
 Check out the [contributing guide](.github/CONTRIBUTING.md) to get started.
 
+I dont have much time so here is the FAQ shortcode usage sample
+
+{{< faq >}}
+  {{< faq-item title="Who am I?" >}}
+  I'm a product designer and front-end developer with over 10 years of experience creating digital experiences. I specialize in user interface design, design systems, and accessibility.
+  {{< /faq-item >}}
+  
+  {{< faq-item title="What services do I offer?" >}}
+  - UI/UX Design
+  - Front-end Development
+  - Design System Implementation
+  - Website Optimization
+  {{< /faq-item >}}
+  
+  {{< faq-item title="Who have I worked with?" >}}
+  I've collaborated with startups, agencies, and established brands including [Client A], [Client B], and [Client C]. My work spans across fintech, e-commerce, and SaaS platforms.
+  {{< /faq-item >}}
+  
+  {{< faq-item title="How do I work?" >}}
+  I follow a collaborative, iterative process focused on solving real user problems. I prefer working in 2-4 week sprints with regular check-ins and clearly defined deliverables.
+  {{< /faq-item >}}
+  
+  {{< faq-item title="What are my rates?" >}}
+  I offer project-based pricing as well as monthly retainers depending on your needs. For projects, I typically charge between $X-$Y depending on scope and timeline.
+  {{< /faq-item >}}
+{{< /faq >}}
+
+I dont have much time so here ENDS the FAQ shortcode usage sample
+
+
+
 ## License
 
 [MIT License](./LICENSE)
